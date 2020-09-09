@@ -1,1 +1,20 @@
+div {
+    background: red;
+}
 
+span {
+    background: green;
+    width: 500px;
+    height: 200px;
+    display: inline;
+}
+
+a {
+    background: yellow;
+}
+
+#buchstabe {
+    background: black;
+    color: white;
+    padding: 5px;
+}
